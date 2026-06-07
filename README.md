@@ -63,8 +63,3 @@ The APK will be at: `build/app/outputs/flutter-apk/app-release.apk`
 - `path` — File path utilities
 - `crypto` — SHA-256 password hashing
 
-## Internship Task Submission
-
-**Developer**: [Your Name]  
-**Institution**: [Your Institution]  
-**Technology Stack**: Flutter (Dart), SQLite, Material Design 3
